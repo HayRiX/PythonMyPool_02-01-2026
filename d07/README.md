@@ -1,4 +1,4 @@
-# 🃏 Module 07: DataDeck Game
+# Module 07: DataDeck Game
 ## Design Patterns, Interfaces & Advanced OOP
 
 ## 📝 Overview

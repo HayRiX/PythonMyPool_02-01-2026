@@ -1,4 +1,4 @@
-# 🧪 Module 06: Alchemy Grimoire
+# Module 06: Alchemy Grimoire
 ## Modules, Packages & Circular Dependencies
 
 ## 📝 Overview

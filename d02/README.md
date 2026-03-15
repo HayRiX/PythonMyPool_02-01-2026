@@ -1,4 +1,4 @@
-# 🌿 Module 02: Garden Guardian
+# Module 02: Garden Guardian
 ## Data Engineering and Robust Systems in Python
 
 Today, we moved from simply writing code that "works" under ideal conditions to building **Robust Systems** capable of withstanding errors, corrupt data, and unexpected runtime issues.

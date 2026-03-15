@@ -1,4 +1,4 @@
-# 🧙‍♂️ Module 10: Higher Magic
+# Module 10: Higher Magic
 ## Functional Programming, Closures & Decorators
 
 ## 📝 Overview

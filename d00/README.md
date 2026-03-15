@@ -1,4 +1,4 @@
-# 🐍 Python Piscine - Day 00: Growing Code
+# Day 00: Growing Code
 
 ## 📝 Overview
 This repository contains the solutions for **Day 00** of the Python Piscine. The focus of this day is to transition from C to **Python**, understanding its internal architecture, basic syntax, and control flow structures.

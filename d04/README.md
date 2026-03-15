@@ -1,4 +1,4 @@
-# 📂 Module 04: Cyber Archives
+# Module 04: Cyber Archives
 ## File Input/Output & Context Managers
 
 ## 📝 Overview

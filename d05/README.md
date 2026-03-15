@@ -1,4 +1,4 @@
-# 🌌 Module 05: Code Nexus
+# Module 05: Code Nexus
 ## Advanced OOP, Abstraction & Data Pipelines
 
 ## 📝 Overview

@@ -1,4 +1,4 @@
-# 🚀 Module 09: Space Station
+# Module 09: Space Station
 ## Strict Data Validation & Serialization (Pydantic)
 
 ## 📝 Overview

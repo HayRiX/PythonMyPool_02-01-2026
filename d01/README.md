@@ -1,4 +1,4 @@
-# 🌿 Python Piscine - Day 01: Object-Oriented Garden
+# Day 01: Object-Oriented Garden
 
 ## 📝 Overview
 **Day 01** marks the transition from Procedural Programming (writing scripts) to **Object-Oriented Programming (OOP)**. We built a "Garden System" to understand how to structure complex software using Classes, Objects, Encapsulation, and Inheritance.

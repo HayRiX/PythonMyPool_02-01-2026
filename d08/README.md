@@ -1,4 +1,4 @@
-# 📦 Module 08: The Matrix
+# Module 08: The Matrix
 ## Virtual Environments, Dependencies & Secrets
 
 ## 📝 Overview

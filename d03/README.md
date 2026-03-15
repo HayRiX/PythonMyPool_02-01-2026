@@ -1,4 +1,4 @@
-# 🗺️ Module 03: Command Quest & Data Structures
+# Module 03: Command Quest & Data Structures
 
 ## 📝 Overview
 Welcome to **Day 03**! After learning how to create Objects (Day 01) and handle their Errors (Day 02), today we learn how to **organize** them. We moved from dealing with single variables to handling massive collections of data, and we learned how to interact with our program directly from the Terminal.
