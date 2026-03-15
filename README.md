@@ -50,7 +50,7 @@ The repository is organized by Modules (Days). Each folder contains its own `REA
 ## 💡 How to Use This Repository?
 
 1.  **Do not copy solutions directly:** Try to solve the exercise yourself first.
-2.  **Read the Sub-READMEs:** Inside each folder (e.g., `d00/D00_README.md`), you will find a summary of what you should learn on that day.
+2.  **Read the Sub-READMEs:** Inside each folder (e.g., `d00/README.md`), you will find a summary of what you should learn on that day.
 3.  **Compare Solutions:** Use the code here to compare with your solution and improve your coding style (Refactoring).
 
 ---
